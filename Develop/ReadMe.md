@@ -1,8 +1,8 @@
- ![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)
+ ![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)
 # README Generator
 
 ## Description
-this is a readme generator
+A command-line readme generator
 
 ## Table of Contents 
 
@@ -14,22 +14,22 @@ this is a readme generator
 * [License](#license)
     
 ## License
-GPL
+BSD
     
 
 ## Installation
 none
 
 ## Usage
-clone repo, cd into develop, and run node index
+clone repo, cd into Develop and run node index
 
 ## Contributing
 no
 
 ## Tests
-no
+none
 
 ## Questions
 https://github.com/nataliesleem
 
-For more questions, you can reach me at natalie.sleem@yahoo.com
+Please contact me at natalie.sleem@yahoo.com
