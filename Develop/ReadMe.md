@@ -1,7 +1,7 @@
- ![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
-# READMe Generator
+ ![GitHub license](https://img.shields.io/badge/license-GPL-blue.svg)
+# README Generator
 
-### Description
+## Description
 this is a readme generator
 
 ## Table of Contents 
@@ -14,22 +14,22 @@ this is a readme generator
 * [License](#license)
     
 ## License
-Apache
+GPL
     
 
 ## Installation
 none
 
 ## Usage
-none
+clone repo, cd into develop, and run node index
 
 ## Contributing
-none
+no
 
 ## Tests
-none
+no
 
 ## Questions
 https://github.com/nataliesleem
 
-You can reach me at natalie.sleem@yahoo.com for additional questions.
+For more questions, you can reach me at natalie.sleem@yahoo.com

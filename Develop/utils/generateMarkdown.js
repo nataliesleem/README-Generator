@@ -34,7 +34,7 @@ function generateMarkdown(data) {
 return ` ${renderLicenseBadge(data.license)}
 # ${data.title}
 
-##Description
+## Description
 ${data.description}
 
 ## Table of Contents 
@@ -60,7 +60,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-${data.questions}
+https://github.com/${data.questions}
 
 ${data.contact}
 `;
